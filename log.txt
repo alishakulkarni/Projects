@@ -1,0 +1,168 @@
+I am prio 10 thread and I started at: Tue Sep 18 21:04:36 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:36 2018
+. I took 2355 nanosecs. 
+ 
+I am prio 20 thread and I started at: Tue Sep 18 21:04:36 2018
+I am prio 20. I made J = 201 and ended at: Tue Sep 18 21:04:36 2018
+. I took 1366 nanosecs. 
+ 
+I am prio 30 thread and I started at: Tue Sep 18 21:04:36 2018
+I am prio 30. I made J = 1 and ended at: Tue Sep 18 21:04:36 2018
+. I took 164 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:36 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:36 2018
+. I took 753 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:36 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:36 2018
+. I took 757 nanosecs. 
+ 
+I am prio 20 thread and I started at: Tue Sep 18 21:04:36 2018
+I am prio 20. I made J = 201 and ended at: Tue Sep 18 21:04:36 2018
+. I took 752 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:36 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:36 2018
+. I took 746 nanosecs. 
+ 
+I am prio 30 thread and I started at: Tue Sep 18 21:04:37 2018
+I am prio 30. I made J = 1 and ended at: Tue Sep 18 21:04:37 2018
+. I took 176 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:37 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:37 2018
+. I took 741 nanosecs. 
+ 
+I am prio 20 thread and I started at: Tue Sep 18 21:04:37 2018
+I am prio 20. I made J = 201 and ended at: Tue Sep 18 21:04:37 2018
+. I took 608 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:37 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:37 2018
+. I took 623 nanosecs. 
+ 
+I am an Aperiodic Task and I started at: Tue Sep 18 21:04:37 2018
+I am an Aperiodic Task and I ended at: Tue Sep 18 21:04:37 2018
+. I took 104 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:37 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:37 2018
+. I took 607 nanosecs. 
+ 
+I am an Aperiodic Task and I started at: Tue Sep 18 21:04:37 2018
+I am an Aperiodic Task and I ended at: Tue Sep 18 21:04:37 2018
+. I took 399 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:37 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:37 2018
+. I took 747 nanosecs. 
+ 
+I am prio 30 thread and I started at: Tue Sep 18 21:04:37 2018
+I am prio 30. I made J = 1 and ended at: Tue Sep 18 21:04:37 2018
+. I took 134 nanosecs. 
+ 
+I am prio 20 thread and I started at: Tue Sep 18 21:04:37 2018
+I am prio 20. I made J = 201 and ended at: Tue Sep 18 21:04:37 2018
+. I took 675 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:37 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:37 2018
+. I took 616 nanosecs. 
+ 
+I am an Aperiodic Task and I started at: Tue Sep 18 21:04:38 2018
+I am an Aperiodic Task and I ended at: Tue Sep 18 21:04:38 2018
+. I took 473 nanosecs. 
+ 
+I am an Aperiodic Task and I started at: Tue Sep 18 21:04:38 2018
+I am an Aperiodic Task and I ended at: Tue Sep 18 21:04:38 2018
+. I took 135 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:38 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:38 2018
+. I took 741 nanosecs. 
+ 
+I am prio 20 thread and I started at: Tue Sep 18 21:04:38 2018
+I am prio 20. I made J = 201 and ended at: Tue Sep 18 21:04:38 2018
+. I took 756 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:38 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:38 2018
+. I took 604 nanosecs. 
+ 
+I am an Aperiodic Task and I started at: Tue Sep 18 21:04:38 2018
+I am an Aperiodic Task and I ended at: Tue Sep 18 21:04:38 2018
+. I took 143 nanosecs. 
+ 
+I am an Aperiodic Task and I started at: Tue Sep 18 21:04:38 2018
+I am an Aperiodic Task and I ended at: Tue Sep 18 21:04:38 2018
+. I took 475 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:38 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:38 2018
+. I took 738 nanosecs. 
+ 
+I am prio 30 thread and I started at: Tue Sep 18 21:04:38 2018
+I am prio 30. I made J = 1 and ended at: Tue Sep 18 21:04:38 2018
+. I took 144 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:38 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:38 2018
+. I took 655 nanosecs. 
+ 
+I am prio 20 thread and I started at: Tue Sep 18 21:04:38 2018
+I am prio 20. I made J = 201 and ended at: Tue Sep 18 21:04:38 2018
+. I took 742 nanosecs. 
+ 
+I am an Aperiodic Task and I started at: Tue Sep 18 21:04:38 2018
+I am an Aperiodic Task and I ended at: Tue Sep 18 21:04:38 2018
+. I took 478 nanosecs. 
+ 
+I am an Aperiodic Task and I started at: Tue Sep 18 21:04:38 2018
+I am an Aperiodic Task and I ended at: Tue Sep 18 21:04:38 2018
+. I took 144 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:38 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:38 2018
+. I took 720 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:39 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:39 2018
+. I took 733 nanosecs. 
+ 
+I am an Aperiodic Task and I started at: Tue Sep 18 21:04:39 2018
+I am an Aperiodic Task and I ended at: Tue Sep 18 21:04:39 2018
+. I took 120 nanosecs. 
+ 
+I am an Aperiodic Task and I started at: Tue Sep 18 21:04:39 2018
+I am an Aperiodic Task and I ended at: Tue Sep 18 21:04:39 2018
+. I took 474 nanosecs. 
+ 
+I am prio 30 thread and I started at: Tue Sep 18 21:04:39 2018
+I am prio 30. I made J = 1 and ended at: Tue Sep 18 21:04:39 2018
+. I took 135 nanosecs. 
+ 
+I am prio 20 thread and I started at: Tue Sep 18 21:04:39 2018
+I am prio 20. I made J = 201 and ended at: Tue Sep 18 21:04:39 2018
+. I took 631 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:39 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:39 2018
+. I took 601 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:39 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:39 2018
+. I took 747 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:39 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:39 2018
+. I took 745 nanosecs. 
+ 
+I am prio 20 thread and I started at: Tue Sep 18 21:04:39 2018
+I am prio 20. I made J = 201 and ended at: Tue Sep 18 21:04:39 2018
+. I took 726 nanosecs. 
+ 
+I am prio 10 thread and I started at: Tue Sep 18 21:04:39 2018
+I am prio 10. I made J = 201 and ended at: Tue Sep 18 21:04:39 2018
+. I took 786 nanosecs. 
+ 
